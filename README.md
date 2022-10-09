@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anushka-Yadav
 - 👀 I’m interested in emerging technologies.
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to get internship.
+- 💞️ I’m looking for internship.
 - 📫 contact me "anushkayadav17603@gmail.com"
 
 <!---
