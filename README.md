@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@anushkayadav176" target="blank"><img src="https://img.shields.io/twitter/follow/@anushkayadav176?logo=twitter&style=for-the-badge" alt="@anushkayadav176" /></a> </p>
 
-- 🔭 I’m currently working on **Reactjs, Firebase**
+- 🔭 I’m currently working on **Reactjs, Firebase, React-router-DOM**
 
 - 👯 I’m looking to collaborate on **Ai/Ml**
 
