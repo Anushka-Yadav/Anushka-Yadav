@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+[![MasterHead](https://media0.giphy.com/media/dRgsTxsmjKL32IW6Sd/giphy.gif?cid=ecf05e47jkgk4bqn14ejla43rxi1h0cbux5u2unu4hsimp76&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 <h1 align="center">Hi 👋, I'm Anushka Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
